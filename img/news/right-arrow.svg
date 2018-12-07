@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="32px" viewBox="0 0 38 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>BF84517E-4DBA-45B1-8356-39D5018C88F3</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M2068.95255,3209.14451 L2039.49874,3209.14451 C2038.67101,3209.14451 2038,3208.48826 2038,3207.66603 C2038,3206.84948 2038.67018,3206.18754 2039.49874,3206.18754 L2068.95255,3206.18869 L2058.02632,3195.52109 C2057.44344,3194.94569 2057.44099,3194.0152 2058.02996,3193.43379 C2058.61485,3192.8564 2059.56233,3192.85561 2060.1444,3193.4302 C2060.1444,3193.4302 2073.52282,3206.63451 2073.55117,3206.66494 C2073.69816,3206.81004 2073.98332,3207.58289 2073.99921,3208 C2074.0151,3208.41711 2073.78852,3209.10076 2073.56613,3209.32029 L2060.1444,3222.5698 C2059.56233,3223.14439 2058.61485,3223.1436 2058.02996,3222.56621 C2057.44099,3221.9848 2057.44344,3221.05431 2058.02632,3220.47891 L2068.95255,3209.14451 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="38" height="32">
+            <rect x="2037" y="3192" width="38" height="32" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Visual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="States-/-Assets" transform="translate(-2037.000000, -3192.000000)">
+            <g id="right_arrow">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

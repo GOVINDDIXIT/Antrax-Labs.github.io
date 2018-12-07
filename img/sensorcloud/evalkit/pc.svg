@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="343" height="334" viewBox="0 0 343 334">
+    <defs>
+        <filter id="a" width="145.6%" height="147.6%" x="-22.8%" y="-24%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="20"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.299932065 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <linearGradient id="b" x1="100%" x2="12.378%" y1="100%" y2="12.951%">
+            <stop offset="0%" stop-color="#7FCF87"/>
+            <stop offset="100%" stop-color="#7F9ECF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#a)" transform="translate(40 40)">
+        <path fill="#D8D8D8" d="M0 19.997C0 8.953 8.958 0 19.997 0h223.006C254.047 0 263 8.947 263 19.997v214.006c0 11.044-8.958 19.997-19.997 19.997H19.997C8.953 254 0 245.053 0 234.003V19.997z"/>
+        <rect width="257.396" height="248.4" x="2.802" y="2.8" fill="#191919" rx="17.2"/>
+        <path fill="#212121" d="M12.81 22c0-5.08 4.12-9.2 9.196-9.2h218.988a9.193 9.193 0 0 1 9.196 9.2v210c0 5.08-4.12 9.2-9.196 9.2H22.006a9.193 9.193 0 0 1-9.196-9.2V22z"/>
+        <ellipse cx="45.835" cy="204.2" fill="#191919" rx="13.01" ry="13"/>
+        <ellipse cx="45.835" cy="204.2" fill="#494949" rx="11.008" ry="11"/>
+        <path fill="#232323" d="M43.433 199.8c-1.644.82-2.602 2.44-2.602 4.4 0 2.761 2.24 5 5.004 5a5.002 5.002 0 0 0 5.004-5c0-1.96-.958-3.58-2.602-4.4a1.39 1.39 0 0 0-.424-.194c-.026-.011-.077-.006-.077-.006-.276 0-.5.2-.5.5s.5.58.5.58a3.999 3.999 0 0 1-1.901 7.52 4.002 4.002 0 0 1-1.902-7.52s.5-.18.5-.58c0-.4-.223-.5-.5-.5 0 0-.05-.005-.076.006a.499.499 0 0 0-.252.117l-.172.077z"/>
+        <rect width="1.001" height="6" x="45.435" y="198" fill="#232323" rx=".5"/>
+        <path fill="url(#b)" d="M102.635 37.218c9.082 2.085 15.855 10.216 15.855 19.931 0 11.295-9.15 20.451-20.453 20.451H20.453C9.157 77.6 0 68.446 0 57.15c0-10.364 7.703-18.926 17.705-20.268a28.724 28.724 0 0 1-1.178-8.167C16.527 12.856 29.382 0 45.239 0c10.686 0 20.008 5.838 24.952 14.498a22.313 22.313 0 0 1 10.203-2.452c12.376 0 22.41 10.034 22.41 22.412 0 .934-.058 1.855-.169 2.76z" transform="translate(72.255 80.2)"/>
+    </g>
+</svg>

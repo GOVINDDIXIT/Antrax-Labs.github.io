@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="32px" viewBox="0 0 38 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>8B69161B-4A9C-4C20-B1E8-F62230B851F9</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M1988.95255,3209.14451 L1959.49874,3209.14451 C1958.67101,3209.14451 1958,3208.48826 1958,3207.66603 C1958,3206.84948 1958.67018,3206.18754 1959.49874,3206.18754 L1988.95255,3206.18869 L1978.02632,3195.52109 C1977.44344,3194.94569 1977.44099,3194.0152 1978.02996,3193.43379 C1978.61485,3192.8564 1979.56233,3192.85561 1980.1444,3193.4302 C1980.1444,3193.4302 1993.52282,3206.63451 1993.55117,3206.66494 C1993.69816,3206.81004 1993.98332,3207.58289 1993.99921,3208 C1994.0151,3208.41711 1993.78852,3209.10076 1993.56613,3209.32029 L1980.1444,3222.5698 C1979.56233,3223.14439 1978.61485,3223.1436 1978.02996,3222.56621 C1977.44099,3221.9848 1977.44344,3221.05431 1978.02632,3220.47891 L1988.95255,3209.14451 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="38" height="32">
+            <rect x="1957" y="3192" width="38" height="32" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Visual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="States-/-Assets" transform="translate(-1957.000000, -3192.000000)">
+            <g id="left_arrow" transform="translate(1976.000000, 3208.000000) scale(-1, 1) translate(-1976.000000, -3208.000000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

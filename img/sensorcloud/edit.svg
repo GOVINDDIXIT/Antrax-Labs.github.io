@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="128" viewBox="0 0 121 128">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#414141"/>
+            <stop offset="100%" stop-color="gray"/>
+        </linearGradient>
+        <rect id="b" width="78.923" height="106" rx="5.28"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(11 11)">
+            <use fill="url(#a)" xlink:href="#b"/>
+            <rect width="89.923" height="117" x="-5.5" y="-5.5" stroke="#FFF" stroke-width="11" rx="5.28"/>
+        </g>
+        <path fill="#DEDEDE" d="M30.71 26.704h39.503a3.926 3.926 0 0 1 0 7.852H30.71a3.926 3.926 0 1 1 0-7.852zm0 15.703h39.503a3.926 3.926 0 0 1 0 7.852H30.71a3.926 3.926 0 0 1 0-7.852zm0 15.704h39.503a3.926 3.926 0 0 1 0 7.852H30.71a3.926 3.926 0 0 1 0-7.852zm0 15.704h19.772a3.926 3.926 0 1 1 0 7.852H30.71a3.926 3.926 0 0 1 0-7.852z"/>
+        <path fill="#7FCBCF" d="M117.687 53.464c3.853 3.853 3.853 10.1 0 13.952l-35.185 35.185-13.317 3.375a3.3 3.3 0 0 1-4.01-4.01L68.55 88.65l35.186-35.186c3.852-3.852 10.099-3.852 13.951 0z"/>
+    </g>
+</svg>

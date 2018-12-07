@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>F5089332-BA40-4D61-A40E-2DF12C4AE76D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7FBECF" offset="0%"></stop>
+            <stop stop-color="#7FB7CF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Visual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="States-/-Assets" transform="translate(-905.000000, -3198.000000)" fill="url(#linearGradient-1)">
+            <g id="small_social" transform="translate(845.000000, 3198.000000)">
+                <path d="M88.3442865,0 L61.6557135,0 C60.7411931,0 60,0.741190356 60,1.6557073 L60,28.3441803 C60,29.2585848 60.7411931,30 61.6557135,30 L76.024002,30 L76.024002,18.3823976 L72.11436,18.3823976 L72.11436,13.8547743 L76.024002,13.8547743 L76.024002,10.5158208 C76.024002,6.64103861 78.3905595,4.53110774 81.8472128,4.53110774 C83.5030387,4.53110774 84.9260755,4.65430225 85.3407345,4.70938009 L85.3407345,8.75883775 L82.9433783,8.75996178 C81.0635308,8.75996178 80.6994537,9.65323442 80.6994537,10.964087 L80.6994537,13.8547743 L85.1829191,13.8547743 L84.5992042,18.3823976 L80.6994537,18.3823976 L80.6994537,30 L88.3442865,30 C89.2586945,30 90,29.2585848 90,28.3441803 L90,1.6557073 C90,0.741190356 89.2586945,0 88.3442865,0" id="fb"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="20px" viewBox="0 0 30 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>264BBFFA-BAD3-4AD8-91E6-CA9066FEB21E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7FA5CF" offset="0%"></stop>
+            <stop stop-color="#7F9FCF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Visual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="States-/-Assets" transform="translate(-1025.000000, -3203.000000)" fill="url(#linearGradient-1)">
+            <g id="small_social" transform="translate(845.000000, 3198.000000)">
+                <path d="M208.261071,8.428 L196.512857,16.753 C196.073571,17.061 195.498214,17.211 194.925,17.204 C194.350714,17.211 193.775357,17.06 193.336071,16.753 L181.585714,8.428 C180.713571,7.811 180,8.142 180,9.163 L180,22.822 C180,23.843 180.895714,24.679 181.989643,24.679 L194.922857,24.679 L207.857143,24.679 C208.951071,24.679 209.846786,23.843 209.846786,22.822 L209.846786,9.163 C209.846786,8.142 209.133214,7.811 208.261071,8.428 Z M182.360357,6.331 L193.111071,14.279 C193.598571,14.639 194.270357,14.799 194.922857,14.769 C195.574286,14.799 196.246071,14.64 196.733571,14.279 L207.484286,6.331 C208.345714,5.698 208.150714,5.179 207.057857,5.179 L194.923929,5.179 L182.79,5.179 C181.696071,5.179 181.501071,5.698 182.360357,6.331 Z" id="mail"></path>
+            </g>
+        </g>
+    </g>
+</svg>
