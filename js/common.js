@@ -149,7 +149,7 @@ MODE = {
           template2: '<div class="popover" role="tooltip"><div class="popover-arrow"></div><h3 class="popover-title"></h3> \
             <div class="popover-content"></div></div>',
           content: '<div><div id="industries-wrapper"> \
-                      <a href="industries/medical.html"> \
+                      <a href="industries/home.html"> \
                         <div class="popover-col"> \
                           <div id="popover-lab" class="pic">Smart Homes</div> \
                           <div class="desc"> \
@@ -157,7 +157,7 @@ MODE = {
                           </div> \
                         </div> \
                       </a> \
-                      <a href="industries/solar.html"> \
+                      <a href="industries/cities.html"> \
                         <div class="popover-col"> \
                           <div id="popover-solar" class="pic">Smart City</div> \
                           <div class="desc"> \
@@ -165,7 +165,7 @@ MODE = {
                           </div> \
                         </div> \
                       </a> \
-                      <a href="industries/manufacturing.html"> \
+                      <a href="industries/factories.html"> \
                         <div class="popover-col"> \
                           <div id="popover-wires" class="pic">Smart Factory</div> \
                           <div class="desc"> \
