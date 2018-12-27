@@ -6782,9 +6782,8 @@ section#industries ul #ov-factory .pic {
             display: block;
             background-size: cover;
             width: 100%; } }
-      #about-div #section-contact #location #maps #map-tokyo {
-        background-image: url(../img/about/map_tokyo.png); }
       #about-div #section-contact #location #maps #map-iiit {
+        margin-left: 250px;
         background-image: url(../img/about/map_iiita.png); }
       @media (min-width: 1200px) {
         #about-div #section-contact #location #maps {
