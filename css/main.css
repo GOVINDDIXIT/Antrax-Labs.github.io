@@ -7266,11 +7266,23 @@ a.icon-btn, button.icon-btn {
     #industry-wrapper img.industry-left {
       margin-left: -80px; 
     } }
+
+    @media (min-width: 1200px) {
+      #industry-wrapper img.factory-left {
+        /* width: 100%; */
+        margin-left: 80px;
+       } }
   @media (min-width: 1200px) {
     #industry-wrapper img.industry-right {
       /* width: 100%; */
       margin-left: 80px;
      } }
+
+     @media (min-width: 1200px) {
+      #industry-wrapper img.factory-right {
+        /* width: 100%; */
+        margin-left: 140px;
+       } }
   #industry-wrapper img.industry-left, #industry-wrapper img.industry-right {
     /* margin-bottom: -35px; */
     /*@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
