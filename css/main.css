@@ -7203,9 +7203,9 @@ a.icon-btn, button.icon-btn {
       background-position-x: 70%; } }
 
 #industry-factory > #industry-top, #wires {
-  background-image: url("../img/home/factory.jpg");
-  background-image: -webkit-image-set(url("../img/home/factory.jpg") 1x, url("../img/home/factory%402x.jpg") 2x, url("../img/home/factory%403x.jpg") 3x);
-  background-image: -moz-image-set(url("../img/home/factory.jpg") 1x, url("../img/home/factory%402x.jpg") 2x, url("../img/home/factory%403x.jpg") 3x);
+  background-image: url("../img/industries/factory/factory.png");
+  /* background-image: -webkit-image-set(url("../img/home/factory.jpg") 1x, url("../img/home/factory%402x.jpg") 2x, url("../img/home/factory%403x.jpg") 3x);
+  background-image: -moz-image-set(url("../img/home/factory.jpg") 1x, url("../img/home/factory%402x.jpg") 2x, url("../img/home/factory%403x.jpg") 3x); */
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #333;
