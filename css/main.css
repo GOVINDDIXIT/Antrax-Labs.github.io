@@ -7877,12 +7877,12 @@ a.icon-btn, button.icon-btn {
   width: 800px; }
   @media (max-width: 767px) {
     .vrc-intro__splash-image-wrapper {
-      height: 250px;
+      height: 200px;
       margin-bottom: 25px;
       margin-top: 25px; } }
   @media (min-width: 620px) and (max-width: 767px) {
     .vrc-intro__splash-image-wrapper {
-      height: 360px; } }
+      height: 300px; } }
   @media (min-width: 1200px) {
     .vrc-intro__splash-image-wrapper {
       padding-left: 1%; } }
@@ -7900,7 +7900,8 @@ a.icon-btn, button.icon-btn {
   position: absolute;
   right: 0;
   top: 0;
-  width: 100%; }
+  margin-left: 140px;
+  width: 65%; }
 
 .vrc-intro__description {
   margin-bottom: 0; }
